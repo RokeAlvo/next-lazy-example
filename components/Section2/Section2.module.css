@@ -1,0 +1,7 @@
+.section2 {
+    height: 500px;
+    background: lightgray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

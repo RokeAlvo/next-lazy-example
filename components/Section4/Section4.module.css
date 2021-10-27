@@ -1,0 +1,7 @@
+.section4 {
+    height: 500px;
+    background: lightcyan;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

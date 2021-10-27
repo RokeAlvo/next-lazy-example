@@ -1,0 +1,7 @@
+.section3 {
+    height: 500px;
+    background: lightpink;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

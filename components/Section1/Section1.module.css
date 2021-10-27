@@ -1,0 +1,7 @@
+.section1 {
+    height: 500px;
+    background: lightskyblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
